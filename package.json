@@ -1,0 +1,16 @@
+{
+  "name": "dependency-manager",
+  "version": "1.0.0",
+  "description": "This simple script read the package.json dependencies and updates them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrew Zhukevych",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "shelljs": "^0.8.5"
+  }
+}
